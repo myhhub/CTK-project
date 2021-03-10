@@ -1,6 +1,6 @@
 CTK完整教程(OSGI for C++ 实现 C++ Qt 模块化)
 
-CTK框架实际应用比较可靠，但网上资料很少。本教程围绕 CTK Plugin Framework，探索 C++ 中的模块化技术，并能够基于 CTK 快速搭建 C++ 组件化框架，避免后来的人走弯路。本教程的源码下载地址：[项目源代码](https://github.com/myhhub/ctkExample)。
+CTK框架实际应用比较可靠，但网上资料很少。本教程围绕 CTK Plugin Framework，探索 C++ 中的模块化技术，并能够基于 CTK 快速搭建 C++ 组件化框架，避免后来的人走弯路。本教程的源码下载地址：[项目源代码](https://github.com/myhhub/CTK-project)。
 
 # CTK介绍
 
