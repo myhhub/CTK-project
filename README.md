@@ -74,5 +74,5 @@ CTK框架实际应用比较可靠，但网上资料很少。本教程围绕 CTK 
 
 使用cmake编译出与系统版本相应的动态库。参见[CTK编译教程(64位环境 Windows + Qt + MinGW或MSVC + CMake)](https://www.ljjyy.com/archives/2021/02/100643.html)。
 
-# [使用 CTKWidgets](https://www.ljjyy.com/archives/2021/02/100643.html)。
+# [使用 CTKWidgets](https://www.ljjyy.com/archives/2021/02/100645.html)。
 # [使用 CTK Plugin Framework](https://www.ljjyy.com/archives/2021/02/100645.html)。
