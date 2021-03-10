@@ -1,8 +1,8 @@
-﻿Plugin-SymbolicName: com.Waleon.EventHandler
+﻿Plugin-SymbolicName: BlogEventHandler
 Plugin-ActivationPolicy: eager
 Plugin-Category: Demos
-Plugin-ContactAddress: https://github.com/Waleon
+Plugin-ContactAddress: https://github.com/myhhub
 Plugin-Description: A plugin for handle event
 Plugin-Name: BlogEventHandler
-Plugin-Vendor: Waleon
+Plugin-Vendor: myh
 Plugin-Version: 1.0.0
