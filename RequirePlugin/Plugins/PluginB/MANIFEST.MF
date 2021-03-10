@@ -1,9 +1,9 @@
 Plugin-SymbolicName: Plugin.B
 Plugin-ActivationPolicy: eager
 Plugin-Category: Demos
-Plugin-ContactAddress: https://github.com/Waleon
+Plugin-ContactAddress: https://github.com/myhhub
 Plugin-Description: A plugin for test
 Plugin-Name: PluginB
-Plugin-Vendor: Waleon
+Plugin-Vendor: myh
 Plugin-Version: 1.0.0
 Require-Plugin: Plugin.A; resolution:="mandatory"; plugin-version="[1.0,2.0)"
