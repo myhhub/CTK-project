@@ -1,0 +1,8 @@
+Plugin-SymbolicName: com.Waleon.BlogEventHandlerUsingSlots
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/Waleon
+Plugin-Description: A plugin for handle event
+Plugin-Name: BlogEventHandlerUsingSlots
+Plugin-Vendor: Waleon
+Plugin-Version: 1.0.0

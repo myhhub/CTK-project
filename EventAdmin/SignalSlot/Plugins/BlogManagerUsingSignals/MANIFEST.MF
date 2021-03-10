@@ -1,0 +1,8 @@
+Plugin-SymbolicName: com.Waleon.BlogManagerUsingSignals
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/Waleon
+Plugin-Description: A plugin for publish blog
+Plugin-Name: BlogManagerUsingSignals
+Plugin-Vendor: Waleon
+Plugin-Version: 1.0.0

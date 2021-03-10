@@ -1,0 +1,8 @@
+Plugin-SymbolicName: Greet
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/myhhub
+Plugin-Description: A plugin for greet
+Plugin-Name: Greet
+Plugin-Vendor: myh
+Plugin-Version: 1.0.0

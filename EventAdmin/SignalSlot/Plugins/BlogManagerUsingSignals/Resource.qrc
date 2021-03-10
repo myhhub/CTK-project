@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/BlogManagerUsingSignals/META-INF">
+        <file>MANIFEST.MF</file>
+    </qresource>
+</RCC>

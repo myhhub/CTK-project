@@ -1,0 +1,8 @@
+Plugin-SymbolicName: Welcome.Qt
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/myhhub
+Plugin-Description: A plugin for welcome Qt
+Plugin-Name: WelcomeQt
+Plugin-Vendor: myh
+Plugin-Version: 1.0.0
